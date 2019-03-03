@@ -32,14 +32,14 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1551620672211,
-            "changeTime": 1551620672211,
-            "contentHash": "0597ad4f7b0197bf9f678ad12cf6016df7bcf5ae",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 256,
+            "modifiedTime": 1551620838439,
+            "changeTime": 1551620838439,
+            "contentHash": "f9df8dcfe3ec11777368af71ee70800ba079226a"
         }
     ],
     [
@@ -1778,144 +1778,183 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 448,
             "modifiedTime": 1551620737142,
             "changeTime": 1551620737142,
-            "contentHash": "33972cce465534a52d2b49630d4695ad890751ad"
+            "contentHash": "33972cce465534a52d2b49630d4695ad890751ad",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/MaintenanceRequestHelper.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/MaintenanceRequestHelper.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1551620737133,
             "changeTime": 1551620737133,
-            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04"
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/MaintenanceRequestHelper.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/MaintenanceRequestHelper.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 137,
             "modifiedTime": 1551620737135,
             "changeTime": 1551620737135,
-            "contentHash": "9a5e6a5f36618f8d7f8fbf7ef5ca0281ce561b57"
+            "contentHash": "9a5e6a5f36618f8d7f8fbf7ef5ca0281ce561b57",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutService.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutService.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1551620737137,
             "changeTime": 1551620737137,
-            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04"
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutService.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutService.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 351,
             "modifiedTime": 1551620737137,
             "changeTime": 1551620737137,
-            "contentHash": "8286c691e65619ce0634fb8fb7bc9302748ea534"
+            "contentHash": "8286c691e65619ce0634fb8fb7bc9302748ea534",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseSyncSchedule.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseSyncSchedule.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1551620737138,
             "changeTime": 1551620737138,
-            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04"
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseSyncSchedule.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseSyncSchedule.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 73,
             "modifiedTime": 1551620737139,
             "changeTime": 1551620737139,
-            "contentHash": "c44ea54c3c2063b9280102523c7ec3219a7ba0ef"
+            "contentHash": "c44ea54c3c2063b9280102523c7ec3219a7ba0ef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutServiceMock.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutServiceMock.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1551620737140,
             "changeTime": 1551620737140,
-            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04"
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutServiceMock.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutServiceMock.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 79,
             "modifiedTime": 1551620737140,
             "changeTime": 1551620737140,
-            "contentHash": "ab56645150c467903698af8f81bd43bec1bdb9b8"
+            "contentHash": "ab56645150c467903698af8f81bd43bec1bdb9b8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutServiceTest.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutServiceTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1551620737141,
             "changeTime": 1551620737141,
-            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04"
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutServiceTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/classes/WarehouseCalloutServiceTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551620737142,
             "changeTime": 1551620737142,
-            "contentHash": "5d9dcef52e1b264b90bb0ee8f4e711697e5df727"
+            "contentHash": "5d9dcef52e1b264b90bb0ee8f4e711697e5df727",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers/MaintenanceRequest.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers/MaintenanceRequest.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1551620838441,
+            "changeTime": 1551620838441,
+            "contentHash": "2115b531a3bfa715698b872335a50aa51f03682b"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers/MaintenanceRequest.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers/MaintenanceRequest.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 124,
+            "modifiedTime": 1551620838442,
+            "changeTime": 1551620838442,
+            "contentHash": "74fc9c268f49b27066c645c0b9c5a9e418d9b4f9"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1551620838442,
+            "changeTime": 1551620838442,
+            "contentHash": "f16f26a99505c5f97c8bef250ebbf0d6d2c5e763"
         }
     ]
 ]
