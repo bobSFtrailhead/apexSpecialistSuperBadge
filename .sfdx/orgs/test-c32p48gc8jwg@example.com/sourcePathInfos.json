@@ -1,0 +1,101 @@
+[
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551617696149,
+            "changeTime": 1551617696149,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551617696149,
+            "changeTime": 1551617696149,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1551619343979,
+            "changeTime": 1551619343979,
+            "contentHash": "45fd8f60de34f5a7b4c16bdf67bbdcb6d267644e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1551617696150,
+            "changeTime": 1551617696150,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead",
+        {
+            "state": "n",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1551618576171,
+            "changeTime": 1551618576171,
+            "contentHash": "b00d087e26c3c44bd57f843323e8f836a6c389dd",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1551619343981,
+            "changeTime": 1551619343981,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551619343981,
+            "changeTime": 1551619343981,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ]
+]
