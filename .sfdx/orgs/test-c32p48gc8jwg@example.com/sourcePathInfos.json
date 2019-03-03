@@ -1648,53 +1648,53 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4780,
             "modifiedTime": 1551621348187,
             "changeTime": 1551621348187,
-            "contentHash": "2c070c51e3e7200b920dcbe12a59442fc7de32a5"
+            "contentHash": "2c070c51e3e7200b920dcbe12a59442fc7de32a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18585,
             "modifiedTime": 1551621348220,
             "changeTime": 1551621348220,
-            "contentHash": "2efa5fbd51e90391cd2056ee4b248a97fdae53cb"
+            "contentHash": "2efa5fbd51e90391cd2056ee4b248a97fdae53cb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4442,
             "modifiedTime": 1551621348227,
             "changeTime": 1551621348227,
-            "contentHash": "786fce6ae025512187fd83e59003697886daed2e"
+            "contentHash": "786fce6ae025512187fd83e59003697886daed2e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4442,
             "modifiedTime": 1551621348231,
             "changeTime": 1551621348231,
-            "contentHash": "786fce6ae025512187fd83e59003697886daed2e"
+            "contentHash": "786fce6ae025512187fd83e59003697886daed2e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
