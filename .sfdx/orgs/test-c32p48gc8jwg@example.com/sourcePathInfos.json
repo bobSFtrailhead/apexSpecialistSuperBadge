@@ -36,10 +36,10 @@
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1551620838439,
-            "changeTime": 1551620838439,
-            "contentHash": "f9df8dcfe3ec11777368af71ee70800ba079226a"
+            "size": 288,
+            "modifiedTime": 1551621229359,
+            "changeTime": 1551621229359,
+            "contentHash": "ec7cdd2fd86c50f4b58f9cacda5fbea05360facd"
         }
     ],
     [
@@ -1648,53 +1648,53 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4780,
-            "modifiedTime": 1551620240902,
-            "changeTime": 1551620240902,
-            "contentHash": "2c070c51e3e7200b920dcbe12a59442fc7de32a5",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 4937,
+            "modifiedTime": 1551621229369,
+            "changeTime": 1551621229369,
+            "contentHash": "e92a439d7ddecd678601e4846dc0491578f44785"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 18585,
-            "modifiedTime": 1551620240914,
-            "changeTime": 1551620240914,
-            "contentHash": "2efa5fbd51e90391cd2056ee4b248a97fdae53cb",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 18740,
+            "modifiedTime": 1551621229400,
+            "changeTime": 1551621229400,
+            "contentHash": "c3b1dbac8fd9f0838f7eb7fef9a2656bdfb4b6b3"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4442,
-            "modifiedTime": 1551620240917,
-            "changeTime": 1551620240917,
-            "contentHash": "786fce6ae025512187fd83e59003697886daed2e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 4599,
+            "modifiedTime": 1551621229407,
+            "changeTime": 1551621229407,
+            "contentHash": "8a886c65bea08f8fa994bc778707fd445cd7270a"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4442,
-            "modifiedTime": 1551620240919,
-            "changeTime": 1551620240919,
-            "contentHash": "786fce6ae025512187fd83e59003697886daed2e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 4599,
+            "modifiedTime": 1551621229411,
+            "changeTime": 1551621229411,
+            "contentHash": "8a886c65bea08f8fa994bc778707fd445cd7270a"
         }
     ],
     [
@@ -1921,40 +1921,92 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers/MaintenanceRequest.trigger-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers/MaintenanceRequest.trigger-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 178,
             "modifiedTime": 1551620838441,
             "changeTime": 1551620838441,
-            "contentHash": "2115b531a3bfa715698b872335a50aa51f03682b"
+            "contentHash": "2115b531a3bfa715698b872335a50aa51f03682b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers/MaintenanceRequest.trigger",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers/MaintenanceRequest.trigger",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 124,
             "modifiedTime": 1551620838442,
             "changeTime": 1551620838442,
-            "contentHash": "74fc9c268f49b27066c645c0b9c5a9e418d9b4f9"
+            "contentHash": "74fc9c268f49b27066c645c0b9c5a9e418d9b4f9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/triggers",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1551620838442,
             "changeTime": 1551620838442,
-            "contentHash": "f16f26a99505c5f97c8bef250ebbf0d6d2c5e763"
+            "contentHash": "f16f26a99505c5f97c8bef250ebbf0d6d2c5e763",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objects/Product2/fields/Cost__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objects/Product2/fields/Cost__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1551621229361,
+            "changeTime": 1551621229361,
+            "contentHash": "85c1a9870a8971471579fe9a5b9d6efd046c1dc7"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objects/Product2/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objects/Product2/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551621229361,
+            "changeTime": 1551621229361,
+            "contentHash": "8e3887827086cde38078a4b141989bad0b838efe"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objects/Product2",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objects/Product2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551621229359,
+            "changeTime": 1551621229359,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551621229359,
+            "changeTime": 1551621229359,
+            "contentHash": "88ef0f79dbd1550329cd7678787dd1edbb2e4da9"
         }
     ]
 ]
