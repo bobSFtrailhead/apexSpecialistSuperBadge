@@ -2,14 +2,14 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551617696149,
             "changeTime": 1551617696149,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551617696149,
             "changeTime": 1551617696149,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,23 +36,23 @@
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1551619343979,
-            "changeTime": 1551619343979,
-            "contentHash": "45fd8f60de34f5a7b4c16bdf67bbdcb6d267644e"
+            "size": 192,
+            "modifiedTime": 1551620240901,
+            "changeTime": 1551620240901,
+            "contentHash": "5310cf7ae083889915b60019eae7542f6742654f"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1551617696150,
             "changeTime": 1551617696150,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead",
         {
-            "state": "n",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1551618576171,
             "changeTime": 1551618576171,
             "contentHash": "b00d087e26c3c44bd57f843323e8f836a6c389dd",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,27 +75,1678 @@
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/settings/OrgPreference.settings-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/settings/OrgPreference.settings-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6383,
             "modifiedTime": 1551619343981,
             "changeTime": 1551619343981,
-            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/settings",
         {
-            "state": "u",
             "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/settings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1551619343981,
             "changeTime": 1551619343981,
-            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/Product-en_US.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/Product-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 376,
+            "modifiedTime": 1551620240787,
+            "changeTime": 1551620240787,
+            "contentHash": "d7fac913c3657b538a9b24738d00532b2cc524a4"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/order_product.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/order_product.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1551620240788,
+            "changeTime": 1551620240788,
+            "contentHash": "ab25a9a1d01b51f782fe45d6c56f943f2b144c54"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/order_product_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/order_product_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1551620240788,
+            "changeTime": 1551620240788,
+            "contentHash": "d5f50a4ae7142fef5bca34406d76aa470849a078"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/order_product_number.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/order_product_number.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 439,
+            "modifiedTime": 1551620240788,
+            "changeTime": 1551620240788,
+            "contentHash": "92d9c04346f0169b15f6763eb887d993258f05f5"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_access.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_access.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1551620240788,
+            "changeTime": 1551620240788,
+            "contentHash": "07100ae19af9a3fca26b63762787041c7166aa8b"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_access_level.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_access_level.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 327,
+            "modifiedTime": 1551620240789,
+            "changeTime": 1551620240789,
+            "contentHash": "3fcbb2a4f2d4db806ee9988e07658cdabbc87d68"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_amount.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_amount.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1551620240789,
+            "changeTime": 1551620240789,
+            "contentHash": "17a94fdf1235808331a496ac67b73d79dd821230"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_catalog.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_catalog.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 317,
+            "modifiedTime": 1551620240789,
+            "changeTime": 1551620240789,
+            "contentHash": "3b336146e10c79c95ddf0fa6ba5c170c4b9e2eb0"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_code.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_code.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 311,
+            "modifiedTime": 1551620240789,
+            "changeTime": 1551620240789,
+            "contentHash": "9eb7d7595f185a63934788e93a6f56aaafcd2634"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_currency.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_currency.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1551620240789,
+            "changeTime": 1551620240789,
+            "contentHash": "37e5ff86362618efcdcf0f3e43b359d75ef2c041"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_custom_field.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_custom_field.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 439,
+            "modifiedTime": 1551620240790,
+            "changeTime": 1551620240790,
+            "contentHash": "611354cee89105f7f7e0678c18a9cb669f21d6b9"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_date.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_date.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 311,
+            "modifiedTime": 1551620240790,
+            "changeTime": 1551620240790,
+            "contentHash": "1cb80fb9167a924c5d7d31fba6c937132d713aad"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_description.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_description.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 325,
+            "modifiedTime": 1551620240790,
+            "changeTime": 1551620240790,
+            "contentHash": "985ccd364416bf585f8063eca5fe42ea84a0cdf0"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_detail.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_detail.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 421,
+            "modifiedTime": 1551620240790,
+            "changeTime": 1551620240790,
+            "contentHash": "83e06c3b09266dd49d55a888d3e08bfe911641b3"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_expected_product_amount.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_expected_product_amount.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 341,
+            "modifiedTime": 1551620240791,
+            "changeTime": 1551620240791,
+            "contentHash": "d9b0f5331d537c973fbd522f0ef91800f3105443"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_family.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_family.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 422,
+            "modifiedTime": 1551620240791,
+            "changeTime": 1551620240791,
+            "contentHash": "8a945a46480efaa3355b98340854a4a70e625010"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_field.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_field.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 418,
+            "modifiedTime": 1551620240791,
+            "changeTime": 1551620240791,
+            "contentHash": "629416ee24ea75969a07e254db3d97a2b0ed2e1e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_forecast_category.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_forecast_category.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 337,
+            "modifiedTime": 1551620240791,
+            "changeTime": 1551620240791,
+            "contentHash": "69b1efd152b3caeedcdf62d417eb9081df079f60"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_history.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_history.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 317,
+            "modifiedTime": 1551620240792,
+            "changeTime": 1551620240792,
+            "contentHash": "c7b480efb9b2499b88687303d6a87e8c0db4ca16"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_history_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_history_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 321,
+            "modifiedTime": 1551620240792,
+            "changeTime": 1551620240792,
+            "contentHash": "181fbb0d1aeaa410eb6d8d85282ad14cac854d2d"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 307,
+            "modifiedTime": 1551620240792,
+            "changeTime": 1551620240792,
+            "contentHash": "ea2d16def5acdc1ba942d17ce0b1cd588729fecb"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_information.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_information.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 325,
+            "modifiedTime": 1551620240792,
+            "changeTime": 1551620240792,
+            "contentHash": "8596fd79dd5d2e42ddecded35ab4727bbaefa7f6"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_link.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_link.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 311,
+            "modifiedTime": 1551620240793,
+            "changeTime": 1551620240793,
+            "contentHash": "47e416c8dbef5942a6baec671e9d06f15561450f"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_name.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_name.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 415,
+            "modifiedTime": 1551620240793,
+            "changeTime": 1551620240793,
+            "contentHash": "a2704d0bfef11807dc9d5c2c15fe9b7d14d5219a"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_price.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_price.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 418,
+            "modifiedTime": 1551620240793,
+            "changeTime": 1551620240793,
+            "contentHash": "05f751fd14cb05afa9f1a3badbbcec17dd7fff36"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_record_type.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_record_type.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 436,
+            "modifiedTime": 1551620240793,
+            "changeTime": 1551620240793,
+            "contentHash": "ffeb782eb2a8d3f49675f97313bda007b7f6bca5"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_report.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_report.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1551620240794,
+            "changeTime": 1551620240794,
+            "contentHash": "4cd9e23e61a484960ae07b8d99cc5abc61cd641c"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_schedule.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_schedule.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 427,
+            "modifiedTime": 1551620240794,
+            "changeTime": 1551620240794,
+            "contentHash": "9f4675c50e574713ac5716fe366fc2ad3979342f"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_selection.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_selection.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 321,
+            "modifiedTime": 1551620240794,
+            "changeTime": 1551620240794,
+            "contentHash": "d95aa6c68ddcad7ae2216a868804807b45df90b9"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_sku.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_sku.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 412,
+            "modifiedTime": 1551620240794,
+            "changeTime": 1551620240794,
+            "contentHash": "8259397f664c0bd17ada9cd975a5f2df046106e5"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_stage_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_stage_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1551620240795,
+            "changeTime": 1551620240795,
+            "contentHash": "29f607dadfa30a60828fe42e5d734ca980e756a8"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_total_price.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_total_price.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 325,
+            "modifiedTime": 1551620240795,
+            "changeTime": 1551620240795,
+            "contentHash": "9eb27b64cd1276ee13e96a3e9b8001fe1fe741a0"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_update.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_update.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1551620240795,
+            "changeTime": 1551620240795,
+            "contentHash": "727685f68e3a1a11df4cb83fcd070e666442fe2c"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_view.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US/product_view.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 415,
+            "modifiedTime": 1551620240796,
+            "changeTime": 1551620240796,
+            "contentHash": "6a5cb155d372e5741baeb0ee4b7126f4f3d6d00d"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Case-en_US.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Case-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 993,
+            "modifiedTime": 1551620240846,
+            "changeTime": 1551620240846,
+            "contentHash": "9f6bfc7b21c5964959cb17a2ba99b80c6caafe58"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_access.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_access.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1551620240846,
+            "changeTime": 1551620240846,
+            "contentHash": "3c33907f5094a8dd03e5edef1b1938c46139b67c"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_access_level.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_access_level.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 334,
+            "modifiedTime": 1551620240847,
+            "changeTime": 1551620240847,
+            "contentHash": "e2e42da1f967ddaa1f877a5b66fe014e45a2720a"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_account.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_account.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240847,
+            "changeTime": 1551620240847,
+            "contentHash": "15b59bcbac29ca827be55a5ea45d9eef7271e292"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_alert.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_alert.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1551620240847,
+            "changeTime": 1551620240847,
+            "contentHash": "b3532142c7a0a2ab247fb237f606cb9c7e3dfc54"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_article.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_article.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240847,
+            "changeTime": 1551620240847,
+            "contentHash": "440f46e2f75877a06295d6f71a6d1514fdbd6153"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_article_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_article_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1551620240848,
+            "changeTime": 1551620240848,
+            "contentHash": "7834f314f9ff56d1df924829f02e4ae7ddc3eb8a"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_asset.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_asset.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1551620240848,
+            "changeTime": 1551620240848,
+            "contentHash": "8f5f58920b4ad7bf45e37d82692c674004e71f0c"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_assignment_rule.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_assignment_rule.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 340,
+            "modifiedTime": 1551620240848,
+            "changeTime": 1551620240848,
+            "contentHash": "f1ab2face1208016ab5c53b2e77e7865805dd8be"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_capture.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_capture.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240848,
+            "changeTime": 1551620240848,
+            "contentHash": "0c7710a062bc5a516b83d89bc2b5076c4be3f15b"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_capture_information.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_capture_information.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1551620240848,
+            "changeTime": 1551620240848,
+            "contentHash": "71bdd658d1425278e4c0583efeb14cccb03bcfc4"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_capture_page.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_capture_page.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 334,
+            "modifiedTime": 1551620240849,
+            "changeTime": 1551620240849,
+            "contentHash": "41fe69188fec92ed462f88ef5509ea38d24c7e04"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_close.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_close.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1551620240849,
+            "changeTime": 1551620240849,
+            "contentHash": "22ce6e25648133786661024e6a4a263059452f37"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_closed.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_closed.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1551620240849,
+            "changeTime": 1551620240849,
+            "contentHash": "d600389234ddd5217e7d53fd29394fe4e1d213d6"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_closure.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_closure.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240849,
+            "changeTime": 1551620240849,
+            "contentHash": "4d7e4ac79c97684dfb61b1a8868d41675026491b"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_comment.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_comment.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 441,
+            "modifiedTime": 1551620240850,
+            "changeTime": 1551620240850,
+            "contentHash": "c940da7bf5cc2aa97c68566605c8f9f7aaea9201"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_comment_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_comment_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1551620240850,
+            "changeTime": 1551620240850,
+            "contentHash": "7086447c9f7b39b8c60be019b7a5cf4fe1d9dd12"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_comment_information.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_comment_information.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1551620240850,
+            "changeTime": 1551620240850,
+            "contentHash": "7ac2d965b5b57b048b716b7d79dccf493cf67ea3"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_company.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_company.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240851,
+            "changeTime": 1551620240851,
+            "contentHash": "8fa8c080b58943e1085b7dbd944f3cacc1c1ecf2"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_contact.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_contact.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240851,
+            "changeTime": 1551620240851,
+            "contentHash": "475adea472b7316cc62ee0a7eb93cd6f88edc0b4"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_contact_role.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_contact_role.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 334,
+            "modifiedTime": 1551620240851,
+            "changeTime": 1551620240851,
+            "contentHash": "69386c5b0ada1b188883bc5766a8b07b0213629c"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_created_date.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_created_date.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 334,
+            "modifiedTime": 1551620240851,
+            "changeTime": 1551620240851,
+            "contentHash": "c02553536385d3ae7dce295ae2f35d02fce2cd41"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_creator.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_creator.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240852,
+            "changeTime": 1551620240852,
+            "contentHash": "c251dbe5ac88ed395a3a5d2f942a5ce7b0d879ca"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_currency.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_currency.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1551620240852,
+            "changeTime": 1551620240852,
+            "contentHash": "e70cc07bac83daf9b3dbf0d5f7df63c80da8fcfd"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_custom_field.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_custom_field.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 456,
+            "modifiedTime": 1551620240852,
+            "changeTime": 1551620240852,
+            "contentHash": "364bc9fb939e657941565feaa6b917ce50badc0b"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_description.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_description.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1551620240853,
+            "changeTime": 1551620240853,
+            "contentHash": "d82419529a6938e2d162076b297e4e05229a608e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_detail.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_detail.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 438,
+            "modifiedTime": 1551620240853,
+            "changeTime": 1551620240853,
+            "contentHash": "40d0d82d89079f8bd331b644d8f2e409e9dd1e36"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_detail_link.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_detail_link.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1551620240853,
+            "changeTime": 1551620240853,
+            "contentHash": "52d370a8b91731823913aa7f7a77c07d618ebd16"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_division.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_division.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1551620240853,
+            "changeTime": 1551620240853,
+            "contentHash": "5880c0998085e208ae3134df46d9ac50d2211d81"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_edit.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_edit.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1551620240854,
+            "changeTime": 1551620240854,
+            "contentHash": "33a099cc96157a8e5265777a1abe04f9fd254ade"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_email.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_email.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1551620240854,
+            "changeTime": 1551620240854,
+            "contentHash": "f44b69a35f50bb8f519cd11abd157f0d4791fe47"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_feed.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_feed.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1551620240854,
+            "changeTime": 1551620240854,
+            "contentHash": "abf9bfdecb46476bc73048a2c309e01849b51c4b"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_field.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_field.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1551620240854,
+            "changeTime": 1551620240854,
+            "contentHash": "5c7d2ae12d27276a52353ef3741c1c082ddeb3f8"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240855,
+            "changeTime": 1551620240855,
+            "contentHash": "d24e659f8388231cb28b627ed5ba457a809e0a48"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1551620240855,
+            "changeTime": 1551620240855,
+            "contentHash": "3743487bb613238d37fbacb55a16a622caadd57d"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_info.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_info.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 334,
+            "modifiedTime": 1551620240855,
+            "changeTime": 1551620240855,
+            "contentHash": "39cd5ad156df82ed3c45cc308759112fa07b9cc1"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_owner.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_owner.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1551620240856,
+            "changeTime": 1551620240856,
+            "contentHash": "0ceb4004017430e6c0ce6fa91fe2963af724b7b2"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_report.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_report.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 338,
+            "modifiedTime": 1551620240856,
+            "changeTime": 1551620240856,
+            "contentHash": "09a547616cc7efa59590ec10446fe5ebea8f3fc6"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_status.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_history_status.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 338,
+            "modifiedTime": 1551620240856,
+            "changeTime": 1551620240856,
+            "contentHash": "2e60b4384e042331e4a70163427e920c0a905cc4"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1551620240856,
+            "changeTime": 1551620240856,
+            "contentHash": "759647b82d293e2719b9a9a689485194496f8268"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_information.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_information.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1551620240857,
+            "changeTime": 1551620240857,
+            "contentHash": "3174fca95f7ae4664a3491cfed5f24a020023fc7"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_last_modified.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_last_modified.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1551620240857,
+            "changeTime": 1551620240857,
+            "contentHash": "8dae1a187fe8e604525ba41a2064c95b9b0fc014"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_lifecycle.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_lifecycle.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 328,
+            "modifiedTime": 1551620240857,
+            "changeTime": 1551620240857,
+            "contentHash": "fd6f5626f04e57f78106697a769f643d7b20d1a5"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_lifecycle_report.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_lifecycle_report.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 342,
+            "modifiedTime": 1551620240857,
+            "changeTime": 1551620240857,
+            "contentHash": "c6853d99f72157c13023537fada5dffc17f09848"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_list.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_list.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1551620240858,
+            "changeTime": 1551620240858,
+            "contentHash": "263fafedbdb56f78e383e66541f43c0e6f32a101"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_milestone.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_milestone.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 447,
+            "modifiedTime": 1551620240858,
+            "changeTime": 1551620240858,
+            "contentHash": "063ef2800e2db2c2885d3c4f63cba691baa4cf7a"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_name.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_name.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1551620240858,
+            "changeTime": 1551620240858,
+            "contentHash": "b8aa9c769ac2f6767ce266d9b2591dc9a502f9d3"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_number.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_number.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1551620240858,
+            "changeTime": 1551620240858,
+            "contentHash": "39a6860fc619e9e984052919659056b4d63f8d4e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_origin.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_origin.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1551620240859,
+            "changeTime": 1551620240859,
+            "contentHash": "8fe6fa8545cd6806294bb6539b99fc12495ecd6d"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_owner.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_owner.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1551620240859,
+            "changeTime": 1551620240859,
+            "contentHash": "697c4ced3713e68101a8b95f2db130833a9909cd"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_owner_alias.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_owner_alias.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1551620240859,
+            "changeTime": 1551620240859,
+            "contentHash": "dd3495cc88907937ba999e488b75a8d5f8329f45"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_owner_role.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_owner_role.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1551620240860,
+            "changeTime": 1551620240860,
+            "contentHash": "e312ee09950b6a0f74732050a4f68ec338d18607"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_phone.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_phone.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1551620240860,
+            "changeTime": 1551620240860,
+            "contentHash": "a78b33e5699333c8f2c76ca7de70dc80833cd839"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_picklist.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_picklist.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 444,
+            "modifiedTime": 1551620240861,
+            "changeTime": 1551620240861,
+            "contentHash": "dd697921fac0e8d63f7245b4ae9abd142b6b25df"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_priority.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_priority.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1551620240861,
+            "changeTime": 1551620240861,
+            "contentHash": "931e93202f675e5e6bf1408b5dc81a067f5af8a6"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_queue.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_queue.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1551620240862,
+            "changeTime": 1551620240862,
+            "contentHash": "bad3f12367f0577ba12eac1e0006e22ca75f555e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_reason.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_reason.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1551620240862,
+            "changeTime": 1551620240862,
+            "contentHash": "bc8382cc9ff3b78c13b32892ecd3ff076c0f3d6e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_record_type.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_record_type.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 453,
+            "modifiedTime": 1551620240863,
+            "changeTime": 1551620240863,
+            "contentHash": "560a3379709b267b66656e833809f0dbea56f97c"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_record_type_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_record_type_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 338,
+            "modifiedTime": 1551620240863,
+            "changeTime": 1551620240863,
+            "contentHash": "e08eb700597b5fed840efc9aaa6ba970227a8818"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_report.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_report.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 438,
+            "modifiedTime": 1551620240863,
+            "changeTime": 1551620240863,
+            "contentHash": "77983585946cced661ee08e852a3a8132c476c7e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_solution.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_solution.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1551620240864,
+            "changeTime": 1551620240864,
+            "contentHash": "fb239b99cc057d5f42979115bf923049734a62d3"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_solution_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_solution_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1551620240864,
+            "changeTime": 1551620240864,
+            "contentHash": "eb11a8e7659c30765a072cd005a96851bcb24397"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_source.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_source.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1551620240864,
+            "changeTime": 1551620240864,
+            "contentHash": "01879f4bbe60a2dfeaf8de78f9016ffefa9344ac"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_splash_page.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_splash_page.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1551620240864,
+            "changeTime": 1551620240864,
+            "contentHash": "e0339cb90354bd162cfd0eef0da823073cf2a9a5"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_stage_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_stage_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1551620240865,
+            "changeTime": 1551620240865,
+            "contentHash": "007408c2e7beaaa19ace140816f01537da22903f"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_status.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_status.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1551620240865,
+            "changeTime": 1551620240865,
+            "contentHash": "cdec29da19266c3d1f29d666462748e8764369c0"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_subject.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_subject.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1551620240865,
+            "changeTime": 1551620240865,
+            "contentHash": "f0489f45ee7bd4c85bafb685c0ca8cf2b266d005"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_team.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_team.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 432,
+            "modifiedTime": 1551620240866,
+            "changeTime": 1551620240866,
+            "contentHash": "8ba6daa7675ca292deb7bec4fa7b13d57b660afb"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_team_member.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_team_member.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 453,
+            "modifiedTime": 1551620240866,
+            "changeTime": 1551620240866,
+            "contentHash": "8ccd20324dff6b09ac33d065cf563efc0deb19b0"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_team_member_role.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_team_member_role.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 468,
+            "modifiedTime": 1551620240866,
+            "changeTime": 1551620240866,
+            "contentHash": "b17e7aa409a7081b38789d87546188d4bae67b6e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_team_record.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_team_record.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 453,
+            "modifiedTime": 1551620240867,
+            "changeTime": 1551620240867,
+            "contentHash": "9accd0c692ff672bd30ad9b034acfb44f156ba40"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_type.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_type.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1551620240867,
+            "changeTime": 1551620240867,
+            "contentHash": "66f788e1da88b11f98008d87cba6b4702d453b50"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_view.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/case_view.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 432,
+            "modifiedTime": 1551620240867,
+            "changeTime": 1551620240867,
+            "contentHash": "9fd383da7e212f21279ae8d22112df8644b6d639"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/cases_detail_page.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/cases_detail_page.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 334,
+            "modifiedTime": 1551620240867,
+            "changeTime": 1551620240867,
+            "contentHash": "fce9b2c4100732634042a28862d6113b57fa5928"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/cases_tab.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/cases_tab.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1551620240868,
+            "changeTime": 1551620240868,
+            "contentHash": "01706272eaa589f5255099985edecc1a388fed98"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/child_case.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/child_case.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 439,
+            "modifiedTime": 1551620240868,
+            "changeTime": 1551620240868,
+            "contentHash": "6ee92ee1250810438d0d21f99fd63cc04eeb3178"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/feed_filter_case_note.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/feed_filter_case_note.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 444,
+            "modifiedTime": 1551620240869,
+            "changeTime": 1551620240869,
+            "contentHash": "31f6fb62da1e3315250ccab8fd8dae5ca611e5f9"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/parent_case.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/parent_case.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 438,
+            "modifiedTime": 1551620240869,
+            "changeTime": 1551620240869,
+            "contentHash": "9c99578fa546c8d1dcfa1a7a51a59e8ddb791d6d"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/parent_case_id.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/parent_case_id.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 328,
+            "modifiedTime": 1551620240869,
+            "changeTime": 1551620240869,
+            "contentHash": "32e450f64dd5fadc43d6b38827855363b5e87526"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/publisher_private_answer.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/publisher_private_answer.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 339,
+            "modifiedTime": 1551620240870,
+            "changeTime": 1551620240870,
+            "contentHash": "4814ea070d44ab37d7ee8b32310a7426cd4da7c7"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/publisher_view_details.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/publisher_view_details.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 339,
+            "modifiedTime": 1551620240870,
+            "changeTime": 1551620240870,
+            "contentHash": "57871c61dc9ceb9b1fc53699e598a9247de502a0"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Date_Due__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Date_Due__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1551620240870,
+            "changeTime": 1551620240870,
+            "contentHash": "c76dd0b978ec8976db4c028d3009bb4fc86702e2"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Date_Reported__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Date_Reported__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1551620240870,
+            "changeTime": 1551620240870,
+            "contentHash": "4bae36bf178afba05afe1db25769698eab333ba4"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Equipment__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Equipment__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 279,
+            "modifiedTime": 1551620240871,
+            "changeTime": 1551620240871,
+            "contentHash": "6a4328b8692194c13a687c1d3bb2de51586a4b04"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Vehicle__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US/Vehicle__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 260,
+            "modifiedTime": 1551620240871,
+            "changeTime": 1551620240871,
+            "contentHash": "86cb628bb0d6dc66468000f361dde2e77ad86691"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4780,
+            "modifiedTime": 1551620240902,
+            "changeTime": 1551620240902,
+            "contentHash": "2c070c51e3e7200b920dcbe12a59442fc7de32a5"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18585,
+            "modifiedTime": 1551620240914,
+            "changeTime": 1551620240914,
+            "contentHash": "2efa5fbd51e90391cd2056ee4b248a97fdae53cb"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4442,
+            "modifiedTime": 1551620240917,
+            "changeTime": 1551620240917,
+            "contentHash": "786fce6ae025512187fd83e59003697886daed2e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4442,
+            "modifiedTime": 1551620240919,
+            "changeTime": 1551620240919,
+            "contentHash": "786fce6ae025512187fd83e59003697886daed2e"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Product-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1152,
+            "modifiedTime": 1551620240795,
+            "changeTime": 1551620240795,
+            "contentHash": "82eb30d734310beca84d8aed9e7a1c15f77a8a1d"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1551620240845,
+            "changeTime": 1551620240845,
+            "contentHash": "8d5a1e241af3fa7d388f8a614c78fd5fdd5b6307"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/objectTranslations/Case-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 2784,
+            "modifiedTime": 1551620240871,
+            "changeTime": 1551620240871,
+            "contentHash": "aee9a26f11014bb5c42a9e13af2f6f2900ddc109"
+        }
+    ],
+    [
+        "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/apexSpecialistTrailhead/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1551620240919,
+            "changeTime": 1551620240919,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
